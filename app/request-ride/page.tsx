@@ -24,7 +24,19 @@ const airports = [
   "Hartsfield-Jackson Atlanta International Airport",
   "San Francisco International Airport",
   "Denver International Airport",
+  "Cochin International Airport (COK)",
+  "Trivandrum International Airport (TRV)",
+  "Calicut International Airport (CCJ)",
+  "Kannur International Airport (CNN)",
+  "Chennai International Airport (MAA)",
+  "Coimbatore International Airport (CJB)",
+  "Madurai Airport (IXM)",
+  "Tiruchirappalli International Airport (TRZ)",
+  "Salem Airport (SXV)",
+  "Tuticorin Airport (TCR)",
+  "Hosur Aerodrome"
 ]
+
 
 export default function RequestRidePage() {
   const router = useRouter()
